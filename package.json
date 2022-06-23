@@ -1,7 +1,7 @@
 {
-  "name": "greenlock-storage-s3",
+  "name": "greenlock-s3",
   "version": "1.1.3",
-  "description": "S3 backed storage strategy for greenlock-express.js (and greenlock.js)",
+  "description": "(forked from scon-io/greenlock-storage-s3) S3 backed storage strategy for greenlock-express.js (and greenlock.js)",
   "main": "index.js",
   "scripts": {
     "test": "node ./test.js",
@@ -21,7 +21,7 @@
     "storage",
     "letsencrypt"
   ],
-  "author": "Cyrille Derche",
+  "author": "Filipkin Denis",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cderche/greenlock-storage-s3/issues"
