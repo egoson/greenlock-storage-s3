@@ -8,6 +8,7 @@ const defaultOptions = {
     , bucketRegion: null
     , accountsDir: "accounts/"
     , configDir: "acme/"
+    , endpoint: null,
 };
 
 const pathHelper = require("./lib/pathHelper");
