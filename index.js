@@ -11,8 +11,6 @@ const defaultOptions = {
     , endpoint: null,
 };
 
-console.log('!!!DEFAULT OPTIONS!!!', defaultOptions)
-
 const pathHelper = require("./lib/pathHelper");
 const fileNames = require("./lib/fileNames");
 
